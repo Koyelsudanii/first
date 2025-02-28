@@ -1,3 +1,1 @@
-Hello, Git!
-git commit -m "add few lines"
-git push
+Testing new commit
